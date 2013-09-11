@@ -1,4 +1,4 @@
 bionic-libc-docs
 ================
 
-Docs from bionic libc
+These files are from Android NDK r9.
